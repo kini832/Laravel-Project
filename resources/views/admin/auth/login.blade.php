@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="{{asset('admin-panel/assets/images/favicon.png')}}">
+  
     <title>Admin Dashboard</title>
     <!-- Custom CSS -->
     <link href="{{asset('admin-panel/dist/css/style.min.css')}}" rel="stylesheet">
@@ -31,7 +31,7 @@
         <div class="auth-box bg-dark border-top border-secondary">
             <div id="loginform">
                 <div class="text-center p-t-20 p-b-20">
-                    <span class="db"><img src="{{asset('admin-panel/assets/images/logo.png')}}" alt="logo" /></span>
+                   <h1>Login</h1>
                 </div>
                 <!-- Form -->
                 {{--<form class="form-horizontal m-t-20" id="loginform" action="index.html">--}}

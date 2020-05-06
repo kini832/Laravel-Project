@@ -5,14 +5,7 @@
             <a class="nav-toggler waves-effect waves-light d-block d-md-none" href="javascript:void(0)"><i class="ti-menu ti-close"></i></a>
 
             <a class="navbar-brand" href="{{route('dashboard')}}">
-                <b class="logo-icon p-l-10">
-                    <img src="{{asset('admin-panel/assets/images/logo-icon.png')}}" alt="homepage" class="light-logo" />
-                </b>
-                <span class="logo-text">
-                             <!-- dark Logo text -->
-                             <img src="{{asset('admin-panel/assets/images/logo-text.png')}}" alt="homepage" class="light-logo" />
-
-                        </span>
+               
             </a>
             <a class="topbartoggler d-block d-md-none waves-effect waves-light" href="javascript:void(0)" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><i class="ti-more"></i></a>
         </div>
